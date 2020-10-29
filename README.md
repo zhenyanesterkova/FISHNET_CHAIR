@@ -1,1 +1,1 @@
-# FISHNET_CHAIR
+# Учебный проект FISHNET_CHAIR
